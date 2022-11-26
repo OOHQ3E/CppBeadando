@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669474030 source:d:\1_my stuff\dokumentumok\iskola\eke pti\5.félév\c++ programozási nyelv\oohq3ebeadando\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+
