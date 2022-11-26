@@ -10,8 +10,10 @@
   - For ciklus segítségével mutassa be a break és continue vezérlő utasítások használatát.
   - Készítsen elemi int típusú tömböt, töltse fel számokkal és ciklus segítségével irassa ki a tömb tartalmát.
   - Készítsen egy osztályt melyben egy string és egy int típusú adat van, valamint definiáljun konstruktort melyben ezen két tagváltozót feltölti példányosításkor. Továbbá készítsen egy print() kiírató metódust a két tagváltozó megjelenítésére. Példányosítás után ennek segítségével jelenítse meg a létrehozott objektum példány tartalmát.
+  - Osztály létrehozásakor kezeljen public, protected és private láthatóságú metódusokat és/vagy tagvátozókat.
+  - Private tagváltozókhoz készítsen publikus láthatóségú getter és setter metódusokat.
+  - Készítsen osztályhoz destruktort.
   - Készítsen túlterhelt operátort.
-  - Mutasson példát virtuális függvény használatára.
 
 ## ENG: C++ programming language - EKCU IF CS Bsc. - NK-OOHQ3E Gábor Bagoly - 2022/23 autumn semester
 
@@ -25,5 +27,7 @@
   - Show the use of break and continue in a for cycle
   - Create an int array, fill it with numbers, and use a loop to write out the content of the array.
   - Create a class with a string and int data and define a constructor in which these two member variables are populated when instantiated. Also, create a print() method to display the two member variables. After instantiation, use this to display the contents of the instance of the object you created.
+  - When creating a class, handle methods and/or variiables with public, protected, and private visibility.
+  - Create publicly visible getter and setter methods for private member variables.
+  - Create destructor for a clas.
   - Create an operator overload.
-  - Show an example of a virtual method.
